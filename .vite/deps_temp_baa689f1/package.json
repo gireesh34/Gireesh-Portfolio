@@ -1,0 +1,8 @@
+{
+  "build": {
+    "sourcemap": true
+  },
+
+  "type": "module",
+  "base": "/Gireesh-Portfolio/"
+}
